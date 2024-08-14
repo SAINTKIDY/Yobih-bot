@@ -10,7 +10,7 @@
 ## Deployment Methods![yobih md bug bot](https://github.com/user-attachments/assets/1dcd1876-3710-4ad8-8a2c-97f7d6df26ba)
 
 ---
-1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://yobih-bot-session-1.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***Click [`FORK`](https://github.com/254100934193/Yobih-bot/fork)***
    
