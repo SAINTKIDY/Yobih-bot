@@ -1,6 +1,10 @@
 # Yobih_bot)
 
-  ![yobih md bug bot](https://github.com/user-attachments/assets/2bbb77ab-1bf5-45cb-8f26-1c52553cf4c6)
+
+
+  **PLEASE FORK MY REPO AND GIVE A STAR FOR COURAGE**
+
+  **MUNGAI WISHES TO THANKS YOU'LL FOR YOUR SUPPORT*
 
  
 ## Deployment Methods![yobih md bug bot](https://github.com/user-attachments/assets/1dcd1876-3710-4ad8-8a2c-97f7d6df26ba)
@@ -10,12 +14,11 @@
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***Click [`FORK`](https://github.com/254100934193/Yobih-bot/fork)***
    
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)***
-6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=replit)***  
-7.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
-8.  ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
-9.  ***Deploy on [`CodeSpace`](https://suhail-web01.vercel.app/deploy?platform=codespace)***
-10. ***Deploy on [`render`](https://suhail-web01.vercel.app/deploy?platform=render)***
+
+7.  
+9.  ***Deploy on KOYEB***
+    
+11. ***Deploy on RENDER***
 ##
 
 
@@ -31,4 +34,9 @@ Yobih bot one of the best bots in universe
 
 **Yobih_bot FOREVER**
 
+
+
+   
+<p align="center">
+  <a href="BROUGHT TO EARTH BY LOVE,,,THANKS TO THE ALMIGHTY">
 
